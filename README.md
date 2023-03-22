@@ -13,7 +13,7 @@ Newer wallpapers will have a `_1` or `_2` suffix. 1 means that the highlights ar
   :---------------------------------------:|:-----------------------------------:|:------------------------------------:
   | ![](./awesomewm/awesomewm_rainbow.png) | ![](./landscape/green_forest_1.png) | ![](./landscape/green_forest_2.png) |
   | ![](./close_up/flowers.png)            | ![](./landscape/waterfall_1.png)    | ![](./landscape/waterfall_2.png)    |
-  | ![](./other/forest_stairs.png)         | ![](./other/mist_forest_1.png)      | ![](./other/mist_forest_2.png)      |
+  | ![](./other/forest_stairs.jpg)         | ![](./other/mist_forest_1.png)      | ![](./other/mist_forest_2.png)      |
   | ![](./landscape/polyscape.jpg)         | ![](./other/megacity_1.png)         | ![](./other/megacity_2.png)         |
   | ![](./landscape/lake_trees.jpg)        | ![](./other/skyscraper_1.png)       | ![](./other/skyscraper_2.png)       |
 
