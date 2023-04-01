@@ -9,13 +9,13 @@ Newer wallpapers will have a `_1` or `_2` suffix. 1 means that the highlights ar
 <details>
   <summary>Preview of some of the wallpapers</summary>
 
-  | **No variants** (older recolors)       | **Variant 1**                       | **Variant 2**                       |
-  :---------------------------------------:|:-----------------------------------:|:------------------------------------:
-  | ![](./awesomewm/awesomewm_rainbow.png) | ![](./landscape/green_forest_1.png) | ![](./landscape/green_forest_2.png) |
-  | ![](./close_up/flowers.png)            | ![](./landscape/waterfall_1.png)    | ![](./landscape/waterfall_2.png)    |
-  | ![](./other/forest_stairs.jpg)         | ![](./other/mist_forest_1.png)      | ![](./other/mist_forest_2.png)      |
-  | ![](./landscape/polyscape.jpg)         | ![](./other/megacity_1.png)         | ![](./other/megacity_2.png)         |
-  | ![](./landscape/lake_trees.jpg)        | ![](./other/skyscraper_1.png)       | ![](./other/skyscraper_2.png)       |
+  | **No variants** (older recolors)       | **Variant 1**                    | **Variant 2**                    |
+  :---------------------------------------:|:--------------------------------:|:---------------------------------:
+  | ![](./awesomewm/awesomewm_rainbow.png) | ![](./nature/green_forest_1.png) | ![](./nature/green_forest_2.png) |
+  | ![](./close_up/flowers.png)            | ![](./nature/waterfall_1.png)    | ![](./nature/waterfall_2.png)    |
+  | ![](./nature/forest_stairs.jpg)        | ![](./nature/mist_forest_1.png)  | ![](./nature/mist_forest_2.png)  |
+  | ![](./nature/polyscape.jpg)            | ![](./other/megacity_1.png)      | ![](./other/megacity_2.png)      |
+  | ![](./nature/lake_trees.jpg)           | ![](./other/skyscraper_1.png)    | ![](./other/skyscraper_2.png)    |
 
   (yeah row 3 variants don't have that much of a diff)
 
