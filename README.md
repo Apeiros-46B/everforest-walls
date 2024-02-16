@@ -23,7 +23,7 @@ Newer wallpapers will have a `_1` or `_2` suffix. 1 means that the highlights ar
 
 ## How I recolor
 
-The newer wallpapers (the ones with the `_1` or `_2` suffix) are done in Blender using the [Color Ramp node](https://docs.blender.org/manual/en/latest/render/shader_nodes/converter/color_ramp.html), which basically uses the brightness of each pixel to determine how far along a gradient (of grays from the colorscheme) it should be recolored to (In-depth tutorial coming when I have enough free time).
+The newer wallpapers (the ones with the `_1` or `_2` suffix) are done in Blender using the [Color Ramp node](https://docs.blender.org/manual/en/latest/render/shader_nodes/converter/color_ramp.html#colorizing-an-image), which basically uses the brightness of each pixel to determine how far along a gradient (of grays from the colorscheme) it should be recolored to (In-depth tutorial coming when I have enough free time).
 
 The older wallpapers were manually tweaked in GIMP using curves, levels, and HSL tools until the colors looked right.
 
